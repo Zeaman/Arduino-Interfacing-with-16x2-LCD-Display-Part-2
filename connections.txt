@@ -1,0 +1,23 @@
+**** Arduino interfaced with 16x2 LCD display ****
+
+Hello Tech#Projects follower
+#The connections of the Arduino UNO to LCD:
+Arduino Uno			LCD
+pin-2				RS
+pin-3				E
+pin-8				D4
+pin-9				D5
+pin-10				D6
+pin-11				D7
+5V				A/no for simulation
+				VDD
+				Pot
+GND				K/no for simulation
+				VSS
+				RW
+				Pot
+
+
+#And other connection:
+Pot-middle pin to Vo/VEE of the LCD
+				
